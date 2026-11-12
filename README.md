@@ -17,9 +17,9 @@ portfolio/
 ├── js/
 │   └── main.js       # Destaque do menu e tratamento dos ícones
 ├── assets/
-│   ├── img/          # Imagens usadas no site
+│   ├── img/          # Imagens (ainda não adicionadas)
 │   └── docs/
-│       └── curriculo.pdf
+│       └── curriculo.pdf (ainda não adicionado)
 └── README.md
 ```
 

@@ -2,7 +2,7 @@
 
 Portfólio pessoal com projetos, formação e trajetória de Jaldson Arthur, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE), Campus Jaboatão dos Guararapes.
 
-**Acesse:** [jaldsonarthur17.github.io/portfolio_pessoal](https://jaldsonarthur17.github.io/portfolio_pessoal/)
+**Acesse:** (https://jaldsonarthur17.github.io/portfolio_pessoal/)
 ## Sobre o projeto
 
 Site estático feito com HTML, CSS e JavaScript puros, sem frameworks ou etapas de build. Ele é publicado com GitHub Pages, e cada `git push` na branch `main` atualiza a página.
